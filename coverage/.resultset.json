@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/syalc01/Documents/makers-academy /week-2/oyster_card_Chayya_Austin/spec/journey_spec.rb": [
+      "/Users/austin/Projects/Makers_Academy/full_time/week2/oyster_card_challenge_Chayya_Austin/spec/journey_spec.rb": [
         1,
         null,
         1,
@@ -37,7 +37,7 @@
         null,
         null
       ],
-      "/Users/syalc01/Documents/makers-academy /week-2/oyster_card_Chayya_Austin/lib/journey.rb": [
+      "/Users/austin/Projects/Makers_Academy/full_time/week2/oyster_card_challenge_Chayya_Austin/lib/journey.rb": [
         1,
         1,
         null,
@@ -55,7 +55,7 @@
         null,
         null
       ],
-      "/Users/syalc01/Documents/makers-academy /week-2/oyster_card_Chayya_Austin/spec/oystercard_spec.rb": [
+      "/Users/austin/Projects/Makers_Academy/full_time/week2/oyster_card_challenge_Chayya_Austin/spec/oystercard_spec.rb": [
         1,
         1,
         13,
@@ -160,7 +160,7 @@
         null,
         null
       ],
-      "/Users/syalc01/Documents/makers-academy /week-2/oyster_card_Chayya_Austin/lib/oystercard.rb": [
+      "/Users/austin/Projects/Makers_Academy/full_time/week2/oyster_card_challenge_Chayya_Austin/lib/oystercard.rb": [
         1,
         1,
         null,
@@ -210,7 +210,7 @@
         null,
         null
       ],
-      "/Users/syalc01/Documents/makers-academy /week-2/oyster_card_Chayya_Austin/spec/station_spec.rb": [
+      "/Users/austin/Projects/Makers_Academy/full_time/week2/oyster_card_challenge_Chayya_Austin/spec/station_spec.rb": [
         1,
         null,
         1,
@@ -225,7 +225,7 @@
         null,
         null
       ],
-      "/Users/syalc01/Documents/makers-academy /week-2/oyster_card_Chayya_Austin/lib/station.rb": [
+      "/Users/austin/Projects/Makers_Academy/full_time/week2/oyster_card_challenge_Chayya_Austin/lib/station.rb": [
         1,
         1,
         null,
@@ -240,6 +240,6 @@
         null
       ]
     },
-    "timestamp": 1507297732
+    "timestamp": 1507298071
   }
 }
